@@ -6,7 +6,7 @@ The idea of this connection to the backend is to send a JSON or Protobuf object 
 
 Please review the following section for more information about this microservice.
 ## Available Scripts
-
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
